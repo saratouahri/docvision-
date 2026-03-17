@@ -1,5 +1,7 @@
 # DocVision 🔬
 **Structured Information Extraction from Scientific PDFs using Vision-Language Models**
+[![Open in HuggingFace Spaces](https://img.shields.io/badge/🤗%20HuggingFace-Spaces-blue)](https://huggingface.co/spaces/sarathr19/docvision)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://huggingface.co/spaces/sarathr19/docvision)
 
 DocVision is a research pipeline that extracts entities and relations from heterogeneous scientific documents (reports, maps, technical drawings, photographs) by **jointly processing text and images** through a Vision-Language Model (VLM). It compares text-only vs. multimodal extraction and produces a queryable RDF knowledge graph.
 
